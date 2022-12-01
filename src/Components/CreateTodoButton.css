@@ -1,0 +1,18 @@
+.TodoButton {
+    background-color: #C491AC;
+    box-shadow: 0px 5px 25px rgb(97 218 250 / 25%);
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+    cursor: pointer;
+    position: fixed;
+    bottom: 50px;
+    right: 90px;
+    height: 60px;
+    width: 60px;
+    z-index: 1;
+}
+
+.TodoButton:hover {
+    transform: rotate(224deg);
+}
