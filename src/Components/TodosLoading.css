@@ -1,0 +1,15 @@
+.loading {
+    text-align: center;
+}
+
+
+.ImgCarga {
+    position: relative;
+    width: 500px;
+    float: unset;
+}
+
+.Cargando {
+    color: white;
+    font-size: 25px;
+}
