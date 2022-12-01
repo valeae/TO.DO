@@ -1,0 +1,17 @@
+.ErrorLoading {
+    text-align: center;
+}
+
+
+.ImgError {
+    position: relative;
+    width: 580px;
+    float: unset;
+}
+
+.Error {
+    color: white;
+    text-align: center;
+    margin: 10px 30px 20px 80px;
+    font-size: 25px;
+}
