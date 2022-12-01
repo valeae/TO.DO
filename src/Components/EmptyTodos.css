@@ -1,0 +1,14 @@
+.EmptyTittle {
+    text-align: center;
+}
+
+.ImgEmpty {
+    position: relative;
+    width: 460px;
+    float: unset;
+}
+
+.TextEmpty {
+    color: white;
+    font-size: 25px;
+}
