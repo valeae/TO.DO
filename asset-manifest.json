@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TO.DO/static/css/main.eda98bc6.css",
+    "main.js": "/TO.DO/static/js/main.e433c152.js",
+    "static/media/pageNotFound.png": "/TO.DO/static/media/pageNotFound.3139831e88f998109769.png",
+    "static/media/loggingOff.png": "/TO.DO/static/media/loggingOff.fa93f3e00731e2de1a8b.png",
+    "static/media/empty.png": "/TO.DO/static/media/empty.c9e05f007023b5fbee64.png",
+    "index.html": "/TO.DO/index.html",
+    "main.eda98bc6.css.map": "/TO.DO/static/css/main.eda98bc6.css.map",
+    "main.e433c152.js.map": "/TO.DO/static/js/main.e433c152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda98bc6.css",
+    "static/js/main.e433c152.js"
+  ]
+}
