@@ -1,0 +1,14 @@
+.Title {
+    color: #C491AC;
+    text-align: center;
+    margin: 0 30px 20px 30px;
+    font-size: 50px;
+}
+
+
+.TodoCounter {
+    color: #C491AC;
+    margin: 0;
+    padding: 0 0 10px 40px;
+    font-size: 30px;
+}
