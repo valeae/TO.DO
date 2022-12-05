@@ -1,6 +1,6 @@
 form {
     width: 90%;
-    max-width: 300px;
+    max-width: 250px;
     background: linear-gradient(30deg, royalblue, indianred);
     padding: 33px 40px;
     display: flex;
@@ -14,7 +14,7 @@ form {
 label {
     text-align: center;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
     color: #ffffff;
     margin-bottom: 26px;
 }
@@ -24,15 +24,15 @@ textarea {
     border: 2px solid transparent;
     border-radius: 10px;
     box-shadow: 0px 5px 50px rgb(32 35 41 / 25%);
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     padding: 12px;
-    height: 96px;
-    width: calc(100% - -20px);
+    height: 60px;
+    width: calc(80% - -73px);
 }
 
 textarea::placeholder {
-    color: darkslategrey;
+    color: white;
     font-weight: 400;
 }
 
@@ -51,11 +51,11 @@ textarea:focus {
 .TodoForm-button {
     cursor: pointer;
     display: inline-block;
-    font-size: 20px;
+    font-size: 16px;
     color: #ffffff;
     font-weight: 400;
-    width: 120px;
-    height: 48px;
+    width: 90px;
+    height: 36px;
     border-radius: 5px;
     border: none;
 }
