@@ -16,3 +16,12 @@
 .TodoButton:hover {
     transform: rotate(224deg);
 }
+
+@media (max-width: 560px) {
+    .TodoButton {
+        bottom: 20px;
+        right: 20px;
+        height: 55px;
+        width: 55px;
+    }
+}
