@@ -4,11 +4,12 @@
 
 .ImgEmpty {
     position: relative;
-    width: 460px;
+    width: 350px;
     float: unset;
 }
 
 .TextEmpty {
     color: white;
-    font-size: 25px;
+    font-size: 20px;
 }
+
